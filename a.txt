@@ -1,2 +1,3 @@
 something
 Awesome line
+This is something else
